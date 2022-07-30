@@ -72,4 +72,5 @@ class Input
     end
   end
 end
+
 # rubocop enable: Metrics/CyclomaticComplexity:
